@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['placa']
+
+roboflow:
+  workspace: trabalho-jnal6
+  project: placa-de-carro-oz0eg
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trabalho-jnal6/placa-de-carro-oz0eg/dataset/6

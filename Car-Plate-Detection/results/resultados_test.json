@@ -1,0 +1,28 @@
+{
+    "metricas": {
+        "conjunto": "test",
+        "total_imagens": 2,
+        "tempo_medio_inferencia": 0.13119888305664062,
+        "tempo_maximo_inferencia": 0.18686199188232422,
+        "tempo_minimo_inferencia": 0.07553577423095703,
+        "imagens_com_deteccao": 0,
+        "media_deteccoes_por_imagem": 0.0,
+        "confianca_media": 0
+    },
+    "resultados_detalhados": [
+        {
+            "imagem": "fundo-carro-placa_jpg.rf.94257ce036735ba90205302619cf7dcf.jpg",
+            "deteccoes": 0,
+            "confiancas": [],
+            "coordenadas": [],
+            "tempo_inferencia": 0.18686199188232422
+        },
+        {
+            "imagem": "original-37bbd77e2dde595d708603e5e09d91d7_jpg.rf.18147bdd5a6f329a82b25b090a8dcdc5.jpg",
+            "deteccoes": 0,
+            "confiancas": [],
+            "coordenadas": [],
+            "tempo_inferencia": 0.07553577423095703
+        }
+    ]
+}
