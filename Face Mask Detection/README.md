@@ -140,3 +140,6 @@ Contribuições são bem-vindas! Por favor, sinta-se à vontade para abrir issue
 
 ## Licença
 Este projeto está sob a licença MIT.
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
