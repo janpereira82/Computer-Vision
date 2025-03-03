@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Checkpoints e modelos
+checkpoints/
+*.h5
+*.keras
+*.pth
+
+# Datasets
+data/dataset_balanceado/
+data/animais/
+
+# Logs e resultados
+*.log
+training_history.png
+confusion_matrix.png
+classification_report.txt
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
