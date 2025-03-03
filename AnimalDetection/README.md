@@ -83,3 +83,6 @@ AnimalDetection/
 3. Experimentar com ensemble de modelos
 4. Implementar interface de usuário para teste do modelo
 5. Adicionar detecção em tempo real via webcam
+
+## Autor
+[Jan Pereira](https://github.com/janpereira82)
